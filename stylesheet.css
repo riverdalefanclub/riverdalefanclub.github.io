@@ -8,8 +8,8 @@ ul {
 }
 
 a:link, a:visited {
-    background-color: #f44336;
-    color: white;
+    background-color: lightgray;
+    color: gray;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
@@ -17,5 +17,5 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color: purple;
+    background-color: violet;
 }
